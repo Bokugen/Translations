@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost:81/coo/public/';
+	public $baseURL = 'https://bokugen.github.io/Translations/public/';
 
 	/**
 	 * --------------------------------------------------------------------------
